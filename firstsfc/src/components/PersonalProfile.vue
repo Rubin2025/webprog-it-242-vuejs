@@ -42,5 +42,3 @@ export default {
   name: "App"
 }
 </script>
-
-<style src="./personalprofile.css"></style>
