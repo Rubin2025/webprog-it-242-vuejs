@@ -44,7 +44,5 @@ export default {
 </script>
 
 
-style scoped>
-/* Paste the contents of personalprofile.css here */
-</style>
+<style src="./personalprofile.css"></style>
 
