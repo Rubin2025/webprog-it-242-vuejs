@@ -4,7 +4,7 @@
     <section class="container">
       <img
         class="profile-img"
-        src="https://media.licdn.com/dms/image/v2/D5603AQGwVNtUh_xY1g/profile-displayphoto-crop_800_800/B56ZoNOlgJI4AI-/0/1761158519640?e=1771459200&v=beta&t=_PCpLtBdmDSDKsFxW9BLLPE83NnF5ZMVuhyBFNrhAFE"
+        src="./assets/profile.jpg"
         alt="Rubin Lukongo Profile"
       />
 
@@ -30,8 +30,8 @@
     <section class="container contact">
       <h2>Contact</h2>
       <p>Email: <a href="mailto:shamanyerrubin@gmail.com">shamanyerrubin@gmail.com</a></p>
-      <p>LinkedIn: <a href="https://www.linkedin.com" target="_blank">linkedin.com/in/yourprofile</a></p>
-      <p>GitHub: <a href="https://github.com" target="_blank">github.com/yourprofile</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></p>
+      <p>GitHub: <a href="https://github.com/yourprofile" target="_blank">github.com/yourprofile</a></p>
     </section>
 
   </main>
@@ -40,5 +40,7 @@
 <script>
 export default {
   name: "App"
-}
+};
 </script>
+
+<style src="./personalprofile.css"></style>
