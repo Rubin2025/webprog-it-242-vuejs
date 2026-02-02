@@ -6,9 +6,6 @@
         'https://www.w3schools.com/vue/img_salad.svg',
         'https://www.w3schools.com/img_cake.svg',
         'https://www.w3schools.com/vue/img_soup.svg',
-        'https://www.w3schools.com/img_fish.svg',
-        'https://www.w3schools.com/img_pizza.svg',
-        'https://www.w3schools.com/img_rice.svg'
       ]
     }
    }
