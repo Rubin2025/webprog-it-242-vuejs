@@ -1,0 +1,72 @@
+<template>
+  <div>
+
+    <header>
+      <img
+        src="https://media.licdn.com/dms/image/v2/D5603AQGwVNtUh_xY1g/profile-displayphoto-crop_800_800/B56ZoNOlgJI4AI-/0/1761158519640?e=1771459200&v=beta&t=_PCpLtBdmDSDKsFxW9BLLPE83NnF5ZMVuhyBFNrhAFE"
+        alt="Rubin Lukongo profile picture"
+      />
+      <h1>Rubin Lukongo</h1>
+      <p>Service Delivery & Aspiring IT Professional</p>
+      <p>AECOM</p>
+    </header>
+
+    <main>
+
+      <section>
+        <h2>About Me</h2>
+        <p>
+          I am Rubin Lukongo, a service delivery professional with experience in
+          customer support and process-driven environments. I enjoy learning new
+          technologies, improving workflows, and delivering high-quality service.
+        </p>
+      </section>
+
+      <section>
+        <h2>Professional Experience</h2>
+        <p>
+          I started my professional journey at TELUS, where I developed strong
+          communication skills, customer service expertise, and the ability to
+          work efficiently in a fast-paced environment.
+        </p>
+        <p>
+          I am currently working at AECOM as part of the French Service Delivery
+          team, where I focus on service quality, process improvement, and
+          supporting business operations.
+        </p>
+      </section>
+
+      <section>
+        <h2>Technical Skills</h2>
+        <ul>
+          <li>HTML & CSS (Basics)</li>
+          <li>Process Improvement</li>
+          <li>Service Delivery & Support</li>
+          <li>Communication & Team Collaboration</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Hobbies & Interests</h2>
+        <p>
+          Outside of work, I enjoy playing football, attending training sessions,
+          and continuously learning new technical skills related to web
+          development and IT.
+        </p>
+      </section>
+
+      <section>
+        <h2>Career Goals</h2>
+        <p>
+          My goal is to grow into a skilled IT and service delivery professional,
+          contribute to meaningful projects, and continue developing both my
+          technical and professional skills.
+        </p>
+      </section>
+
+    </main>
+  </div>
+</template>
+
+<script></script>
+<style src="./css/personalprofile.css"></style>
